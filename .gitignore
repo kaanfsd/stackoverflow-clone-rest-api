@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Environment variables file
+.env
+
+# Optional log files
+logs/
+
+# Generated files
+dist/
+
+# IDE settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Compiled binary addons
+build/
+
+# User-specific files
+.npmrc
+yarn-error.log
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Testing
+coverage/
+
+# Caching
+.ccache/
+
+# Ignore your secrets and config files here
+
+# Ignore your config.env file
+config/env/config.env
